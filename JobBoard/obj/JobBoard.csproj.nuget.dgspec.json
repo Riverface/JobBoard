@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\JobBoard.csproj": {}
+    "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\JobBoard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\JobBoard.csproj": {
+    "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\JobBoard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\JobBoard.csproj",
+        "projectUniqueName": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\JobBoard.csproj",
         "projectName": "JobBoard",
-        "projectPath": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\JobBoard.csproj",
+        "projectPath": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\JobBoard.csproj",
         "packagesPath": "C:\\Users\\sonos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\obj\\",
+        "outputPath": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
