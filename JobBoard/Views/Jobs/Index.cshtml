@@ -1,15 +1,21 @@
 @using JobBoard.Models;
-<h1>Welcome to Planet Express. Yes, we ship dogs.</h1>
+<h1>Job Board.</h1>
 <ul>
 @if (Model.Count == 0)
 {
-  <p>There are no Parcels in the list.</p>
+  <p>There are no openings in the list.</p>
 }
 <ul>
-  @foreach (JobOpening opening in Model)
-  {
-    <li><a href="">@opening.Name</a></li>
-  }
+    @if(Model.Count > 0){
+
+        @foreach (Job opening in Model)
+        {
+            <li><a href="jobs/@opening.ID"  >@opening.Name</a></li>
+        }
+    }
 </ul>
 
-<a href="/parcel/new">Add a new Parcel.</a> 
+    <a href="/jobs/new">Add a new Job.</a> 
+    <form  action="/jobs/delete" method="post">
+    <button type="submit">Delete All</button>
+    </form>

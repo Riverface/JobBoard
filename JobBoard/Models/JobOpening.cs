@@ -1,14 +1,14 @@
 using System.Collections.Generic;
 namespace JobBoard.Models
 {
-    public class JobOpening
+    public class Job
     {
-        static public List<JobOpening> _Instances { get; set; } = new List<JobOpening>();
+        static public List<Job> _Instances { get; set; } = new List<Job>();
         public string Name { get; set; }
         public string Position { get; set; }
         public string Company { get; set; }
         public int ID { get; }
-        public JobOpening(string name, string company, string position)
+        public Job(string name, string company, string position)
         {
             Name = name;
             Company = company;
@@ -16,17 +16,17 @@ namespace JobBoard.Models
             _Instances.Add(this);
             ID = _Instances.Count;
         }
-        public static List<JobOpening> GetAll()
+        public static List<Job> GetAll()
         {
             return _Instances;
         }
-        public static JobOpening GetOpeningByID(int id)
+        public static Job GetOpeningByID(int id)
         {
             return _Instances[id-1];
         }
-        private static void ResetIDs()
+        public static void ClearAll()
         {
-            _Instances = new List<JobOpening>();
+            _Instances = new List<Job>();
         }
     }
 }

@@ -12163,11 +12163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\JobBoard.csproj",
+      "projectUniqueName": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\JobBoard.csproj",
       "projectName": "JobBoard",
-      "projectPath": "c:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\JobBoard.csproj",
+      "projectPath": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\JobBoard.csproj",
       "packagesPath": "C:\\Users\\sonos\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\JobBoard\\obj\\",
+      "outputPath": "C:\\Users\\sonos\\Documents\\Classwork\\JobBoard\\Jobboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
