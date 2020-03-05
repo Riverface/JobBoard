@@ -1,0 +1,11 @@
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\bin\Debug\netcoreapp3.0\CoinCombos.exe
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\bin\Debug\netcoreapp3.0\CoinCombos.deps.json
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\bin\Debug\netcoreapp3.0\CoinCombos.runtimeconfig.json
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\bin\Debug\netcoreapp3.0\CoinCombos.runtimeconfig.dev.json
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\bin\Debug\netcoreapp3.0\CoinCombos.dll
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\bin\Debug\netcoreapp3.0\CoinCombos.pdb
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\obj\Debug\netcoreapp3.0\CoinCombos.csprojAssemblyReference.cache
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\obj\Debug\netcoreapp3.0\CoinCombos.AssemblyInfoInputs.cache
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\obj\Debug\netcoreapp3.0\CoinCombos.AssemblyInfo.cs
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\obj\Debug\netcoreapp3.0\CoinCombos.dll
+C:\Users\sonos\Documents\CoinCombos.Solution\CoinCombos\obj\Debug\netcoreapp3.0\CoinCombos.pdb
